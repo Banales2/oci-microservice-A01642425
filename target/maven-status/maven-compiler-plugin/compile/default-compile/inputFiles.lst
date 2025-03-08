@@ -1,9 +1,5 @@
-C:\Programacion\Java\Spring\oci-microservice\src\main\java\com\example\oci_microservice\controller\OrderController.java
-C:\Programacion\Java\Spring\oci-microservice\src\main\java\com\example\oci_microservice\controller\UserController.java
-C:\Programacion\Java\Spring\oci-microservice\src\main\java\com\example\oci_microservice\model\Order.java
-C:\Programacion\Java\Spring\oci-microservice\src\main\java\com\example\oci_microservice\model\User.java
-C:\Programacion\Java\Spring\oci-microservice\src\main\java\com\example\oci_microservice\OciMicroserviceApplication.java
-C:\Programacion\Java\Spring\oci-microservice\src\main\java\com\example\oci_microservice\repository\OrderRepository.java
-C:\Programacion\Java\Spring\oci-microservice\src\main\java\com\example\oci_microservice\repository\UserRepository.java
-C:\Programacion\Java\Spring\oci-microservice\src\main\java\com\example\oci_microservice\service\OrderService.java
-C:\Programacion\Java\Spring\oci-microservice\src\main\java\com\example\oci_microservice\service\UserService.java
+C:\Programacion\Java\Spring\oci-microservice-A01642425\src\main\java\com\example\oci_microservice\controller\UserController.java
+C:\Programacion\Java\Spring\oci-microservice-A01642425\src\main\java\com\example\oci_microservice\model\Student.java
+C:\Programacion\Java\Spring\oci-microservice-A01642425\src\main\java\com\example\oci_microservice\OciMicroserviceApplication.java
+C:\Programacion\Java\Spring\oci-microservice-A01642425\src\main\java\com\example\oci_microservice\repository\StudentRepository.java
+C:\Programacion\Java\Spring\oci-microservice-A01642425\src\main\java\com\example\oci_microservice\service\StudentService.java
